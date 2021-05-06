@@ -1,13 +1,13 @@
 # KONVERSI CITRA RGB KE LAYER RED, GREEN, BLUE, GRAYSACLE & BINER 
 # PENGOLAHAN CITRA (MATLAB -> GUI)
-
-## Mardiansyah
-## 311910263
-## TI.19.C.1
-## Universitas Pelita Bangsa
-
+```
+Mardiansyah
+311910263
+TI.19.C.1
+Universitas Pelita Bangsa
+```
 ![GUI](https://user-images.githubusercontent.com/81758407/117338279-94519980-aec8-11eb-8f43-65c1b70a0773.PNG)
-
+Source Code
 ```
 function varargout = Guide(varargin)
 % GUIDE MATLAB code for Guide.fig
